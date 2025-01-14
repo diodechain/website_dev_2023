@@ -91,6 +91,18 @@ function initPopup() {
     return false;
   }
 
+  function isBrave() {
+    if (window.navigator.brave != undefined) {
+      if (window.navigator.brave.isBrave.name == "isBrave") {
+        return "We are required to ask for your cookie consent.  Ad blockers may disable this popup - please disable ad blockers so we can save your preference.";
+      } else {
+        return "";
+      }
+    } else {
+      return "";
+    }
+  }
+
   function showPopup(target) {
     target.classList.add('visible');
     setTimeout(function () {
@@ -190,6 +202,7 @@ function initPopup() {
 
     let t = document.querySelector('#cookies-consent');
     showPopup(t);
+    document.getElementById("bravenotice").innerHTML = isBrave();
   }
 }
 
