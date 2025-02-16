@@ -4,7 +4,6 @@ layout: page
 class: header--white
 permalink: /products/collab-li/
 noindex: true
-hide_header: true
 
 ### Hero
 hero:
