@@ -14,6 +14,8 @@ In this article, we will outline the steps required to deploy a static website u
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oA4oOY5zgU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+If you’re interested in expanding beyond static websites into decentralized hosting and collaboration, explore how the Diode Network enables dynamic, encrypted communication through Diode Collab — an all-in-one platform for secure team messaging, file collaboration, and Web3 website publishing. It’s a practical way to host decentralized websites or even run a fully private messaging app, all built on the Diode Network.
+
 So, how can you do that? Let’s dive right in!
 
 Step 1. Registering an ENS name

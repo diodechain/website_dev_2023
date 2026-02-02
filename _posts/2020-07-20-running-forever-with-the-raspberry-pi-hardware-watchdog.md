@@ -20,6 +20,12 @@ Eventually we have run into a problem not related to our software. From to time 
 
 That's the point the Pi froze, and only manual powering down, and powering up again brought it back to live.
 
+## **Why this matters on the Diode network**
+
+Many people run Raspberry Pis as always-on nodes for the Diode network, whether that’s for remote sensors, decentralized web hosting, or powering a personal Diode website without relying on centralized infrastructure. When your Pi is part of a system like Diode Collab or used to expose services securely over Diode, uptime is critical — especially when devices are deployed in hard-to-reach locations.
+
+This is also true when Pis are used as private infrastructure for collaboration tools, such as self-hosted services that complement Diode Collab, Diode’s secure team messaging and file sharing platform. Unlike traditional cloud tools or a typical Slack alternative, Diode Collab does not require a phone number or personal identifiers, making it a true chatting app without phone number dependencies. Keeping the underlying hardware reliable ensures these decentralized services stay reachable at all times.
+
 ## Enter Watchdog
 
 But the Pis are very resourceful tools. And one of their underdocumented features is a builtin hardware watchdog. This little hardware service will _once enabled_ watch the system activity and automatically power cycle the Raspberry Pi once it gets stuck. 
