@@ -11,6 +11,8 @@ image: assets/img/blog/exeuctiveblog1.jpeg
 ---
 In the [previous article](https://diode.io/blog/digital-executive-protection-compliance-guide), we discussed the details about privacy and regulatory environments concerning mid-market enterprises. It highlighted the importance of understanding these varying digital privacy laws to best protect executives within the company. 
 
+For these organizations, tools like the Diode Network and Diode Collab offer practical protection: Diode Collab delivers secure team messaging and decentralized hosting that minimizes metadata exposure, serving as a Slack alternative and chatting app without phone number requirements — helping executives collaborate privately while meeting compliance demands.
+
 In this section of our series, we will look more deeply at the nature of these risks – financial, reputational, legal, and others – that often result from the complex web of laws and regulations that organizations of all types and sizes are exposed to.
 
 While we typically think of these types of risks in the context of larger enterprises, the exposures that mid-market organizations face can be equivalently onerous, and the harms to their businesses are even more severe. As a result, we will continue to emphasize the importance of safeguarding your business through the protection of executive data.

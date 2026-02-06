@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diode Collab Update - December
-description: Diode Collab's updates for December
+description: December Diode Collab v1.14.0 – 1.14.1 updates, including Moonbeam anchoring, file sync policies, in‑app file actions, and security improvements.
 date: 2024-12-31 12:00
 categories: [Diode, Security]
 tags: [Diode, Diode Drive]

@@ -3,6 +3,7 @@ layout: post
 title: The Need for an Open Architecture Approach to Zero Trust Networks (ZTNA)
 description: ZTNA architecture 
 date: 2024-06-11 9:00
+last_modified: 2026-02-05
 categories: [Diode, Security]
 tags: [Diode, Diode Drive, Executive Protection, Security, Zero Trust, Dencentralization, Blockchain]
 author: Hans Rempel, CEO diode.io
@@ -12,7 +13,9 @@ image: assets/img/blog/ZTNA Blog.jpg
 
 In the rapidly evolving landscape of cybersecurity, the Zero Trust Network Architecture (ZTNA) has emerged as a pivotal strategy for securing modern networks.  
 
-However, solutions in this [$7B industry](https://www.kuppingercole.com/research/lc80826/zero-trust-network-access) remain [costly to depoy](https://www.watchguard.com/wgrd-news/blog/high-costs-are-main-challenge-adopting-zero-trust), [inaccessible to the majority of organizations](https://techaisle.com/blog/552-zero-trust-adoption-in-the-smb-and-midmarket-drivers-challenges-and-partner-ecosystem), and suffer from a [lack of ecosystem vibrancy](https://www.forbes.com/sites/natanlinder/2023/11/29/open-technology-ecosystems-are-the-future-of-manufacturing/).  
+However, solutions in this [$7B industry](https://www.kuppingercole.com/research/lc80826/zero-trust-network-access) remain [costly to depoy](https://www.watchguard.com/wgrd-news/blog/high-costs-are-main-challenge-adopting-zero-trust), [inaccessible to the majority of organizations](https://techaisle.com/blog/552-zero-trust-adoption-in-the-smb-and-midmarket-drivers-challenges-and-partner-ecosystem), and suffer from a [lack of ecosystem vibrancy](https://www.forbes.com/sites/natanlinder/2023/11/29/open-technology-ecosystems-are-the-future-of-manufacturing/).
+
+The Diode Network and Diode Collab address these gaps directly — delivering open ZTNA through decentralized hosting and secure team messaging that works as a Slack alternative and chatting app without phone number requirements, making enterprise-grade zero trust accessible to mid-market teams at commodity pricing.  
 
 An open architecture is needed for ZTNA to achieve its potential.
 

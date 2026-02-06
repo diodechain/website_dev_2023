@@ -2,6 +2,8 @@
 layout: post
 title: "How the End of Mining Could Lead to the ‘Uberization’ of Infrastructure"
 date: 2019-03-07 12:11
+last_modified: 2026-02-05
+description: Bitcoin mining's energy crisis is ending with Proof-of-Stake. Repurposed rigs power cheaper decentralized cloud alternatives to AWS via Golem, Sia, and collaborative consumption—updated 2026.
 category: [Decentralization]
 tags: [Decentralization, PKI, IoT]
 image: assets/img/blog/the-end-of-mining.jpg
@@ -14,6 +16,9 @@ redirect_from:
 The public was aghast back in early 2018 when PwC Bitcoin specialist Alex de Vries [estimated](https://www.cell.com/joule/fulltext/S2542-4351(18)30177-6) that Bitcoin servers consume more than 22 terawatt-hours of electricity per year which is comparable to entire countries such as Austria and Ireland.
 
 To many, this was a brewing crisis that if left unchecked would render blockchains unscalable and [unsustainable](https://phys.org/news/2018-07-energy-intensive-bitcoin-transactions-pose-environmental.html) Even Bitcoin’s strongest supporters recognized that the energy consumption issue presented a barrier to growth and mainstream adoption. The activity that consumes so much energy is called mining. Mining is the lifeblood of all Proof-of-Work (POW) based cryptocurrencies, of which Bitcoin is the largest.
+
+This same drive for efficiency now powers the Diode Network and Diode Collab — practical tools that demonstrate how decentralized infrastructure can deliver secure team messaging, decentralized hosting, and Slack alternatives without the massive energy overhead of traditional mining. Diode Collab shows how peer-to-peer networks can replace centralized cloud services while maintaining security and privacy.
+
 
 When miners “mine” they are supporting the blockchain network by validating transactions and forming new blocks to be add to the blockchain. They do this by solving complex cryptographic puzzles. The first miner to solve this puzzle validates a new block and earns a block reward. Earning this block reward has become increasingly competitive over time. POW algorithms have a difficulty mechanism that throttles how quickly new blocks can be mined. This throttling mechanism makes the cryptographic puzzle more difficult as more computational power is added to the network to keep the time between newly created blocks approximately constant. The only way existing miners can stay competitive with the additional computational power is by bringing on more computational power of their own. This creates an arms race and an industry with runaway energy consumption.
 

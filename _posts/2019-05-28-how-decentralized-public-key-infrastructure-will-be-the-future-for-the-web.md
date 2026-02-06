@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-05-28 15:54
+last_modified: 2026-02-05
 categories: [PKI]
 tags: [PKI, Blockchain, Security, Decentralization]
 author: Yahsin Huang
@@ -9,7 +10,13 @@ redirect_from:
 - /dpki/how-decentralized-public-key-infrastructure-will-be-the-future-for-the-web-19148/
 ---
 
-If you’ve been following our blog, you will have heard us mentioning the term [decentralized public key infrastructure before](/burning-platform-pki/2019/03/20/decentralized-pki.html). But you probably don’t know what it is or how it works, let alone why it matters so much. In this post, we will examine current approaches to the traditional centralized PKI, explore the basics of decentralized public key infrastructure (DPKI), and then show how blockchain-based DPKI can make an impact as the industry transitions to the next generation of PKI.
+If you’ve been following our blog, you will have heard us mentioning the term [decentralized public key infrastructure before](/burning-platform-pki/2019/03/20/decentralized-pki.html). But you probably don’t know what it is or how it works, let alone why it matters so much.
+
+This same decentralized trust model now powers the Diode Network and Diode Collab — practical tools that bring blockchain-secured communication to real teams through secure team messaging, decentralized hosting, and a Slack alternative that works without phone numbers. Diode Collab demonstrates how DPKI concepts can protect everyday collaboration from MITM attacks and surveillance.
+
+In this post, we'll examine current approaches to traditional centralized PKI, explore the basics of decentralized public key infrastructure (DPKI), and show how blockchain-based DPKI can transform the industry as we transition to next-generation PKI systems.
+
+
 
 ### The Web PKI is Centralized
 
